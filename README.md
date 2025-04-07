@@ -1,1 +1,1 @@
-## OZON Parser
+## Python-Parser.OZON
