@@ -1,1 +1,1 @@
-## Python-Parser.OZON
+## Python-Parser.NEWS
